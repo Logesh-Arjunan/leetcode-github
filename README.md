@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
