@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
