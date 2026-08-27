@@ -34,9 +34,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
