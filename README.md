@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -48,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
