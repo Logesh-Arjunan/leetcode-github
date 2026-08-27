@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
