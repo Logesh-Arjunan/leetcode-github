@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -123,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
