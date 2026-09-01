@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0136-single-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
