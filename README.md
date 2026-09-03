@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0189-rotate-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
