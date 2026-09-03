@@ -148,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
