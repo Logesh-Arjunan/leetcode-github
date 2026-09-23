@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0219-contains-duplicate-ii) |
+| [0275-h-index-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0275-h-index-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0275-h-index-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Newton's Method
 |  |
