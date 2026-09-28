@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0205-isomorphic-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0155-min-stack) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
 | ------- |
