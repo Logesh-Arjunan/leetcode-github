@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0069-sqrtx) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0219-contains-duplicate-ii) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
