@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0275-h-index-ii) |
