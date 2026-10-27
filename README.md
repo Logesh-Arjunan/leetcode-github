@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0219-contains-duplicate-ii) |
 | [0275-h-index-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0300-longest-increasing-subsequence) |
+| [0330-patching-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0330-patching-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
@@ -187,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0330-patching-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
