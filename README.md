@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0343-integer-break) |
