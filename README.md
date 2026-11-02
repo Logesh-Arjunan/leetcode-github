@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0344-reverse-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0155-min-stack) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
