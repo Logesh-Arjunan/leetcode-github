@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0343-integer-break) |
+| [0415-add-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0415-add-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
