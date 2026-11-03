@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0330-patching-array) |
+| [0414-third-maximum-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Tree
 |  |
