@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0330-patching-array) |
 | [0414-third-maximum-number](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0494-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0343-integer-break) |
+| [0494-target-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0494-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -206,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0330-patching-array](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0330-patching-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
