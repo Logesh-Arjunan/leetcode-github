@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0299-bulls-and-cows) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0415-add-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
