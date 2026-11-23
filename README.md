@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Design
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0494-target-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Logesh-Arjunan/leetcode-github/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
